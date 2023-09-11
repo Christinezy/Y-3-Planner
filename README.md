@@ -1,1 +1,1 @@
-# y3-planner
+# Y-3 Planner
